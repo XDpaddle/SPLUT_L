@@ -1,7 +1,7 @@
 ## Dependency
 
 - Python 3.6
-- PyTorch 
+- Paddle 
 - glob
 - numpy
 - pillow
